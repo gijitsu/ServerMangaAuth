@@ -1,0 +1,8 @@
+alt_profanity_check==1.6.1
+Flask==3.1.0
+Flask_GraphQL==2.0.1
+graphene==3.3
+numpy==2.2.5
+Pyrebase4==4.8.0
+python-dotenv==1.1.0
+textblob==0.19.0
